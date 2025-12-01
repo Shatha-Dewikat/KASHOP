@@ -1,0 +1,15 @@
+D:\API\projects\KASHOP\KASHOP.LLB\bin\Debug\net9.0\KASHOP.LLB.deps.json
+D:\API\projects\KASHOP\KASHOP.LLB\bin\Debug\net9.0\KASHOP.LLB.dll
+D:\API\projects\KASHOP\KASHOP.LLB\bin\Debug\net9.0\KASHOP.LLB.pdb
+D:\API\projects\KASHOP\KASHOP.LLB\bin\Debug\net9.0\KASHOP.DAL.dll
+D:\API\projects\KASHOP\KASHOP.LLB\bin\Debug\net9.0\KASHOP.DAL.pdb
+D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\KASHOP.LLB.csproj.AssemblyReference.cache
+D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\KASHOP.LLB.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\KASHOP.LLB.AssemblyInfoInputs.cache
+D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\KASHOP.LLB.AssemblyInfo.cs
+D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\KASHOP.LLB.csproj.CoreCompileInputs.cache
+D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\KASHOP.LLB.csproj.Up2Date
+D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\KASHOP.LLB.dll
+D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\refint\KASHOP.LLB.dll
+D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\KASHOP.LLB.pdb
+D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\ref\KASHOP.LLB.dll

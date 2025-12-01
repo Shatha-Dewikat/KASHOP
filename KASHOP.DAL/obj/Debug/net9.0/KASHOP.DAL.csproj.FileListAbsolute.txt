@@ -1,0 +1,14 @@
+D:\API\projects\KASHOP\KASHOP.DAL\bin\Debug\net9.0\KASHOP.DAL.deps.json
+D:\API\projects\KASHOP\KASHOP.DAL\bin\Debug\net9.0\KASHOP.DAL.runtimeconfig.json
+D:\API\projects\KASHOP\KASHOP.DAL\bin\Debug\net9.0\KASHOP.DAL.dll
+D:\API\projects\KASHOP\KASHOP.DAL\bin\Debug\net9.0\KASHOP.DAL.pdb
+D:\API\projects\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.csproj.AssemblyReference.cache
+D:\API\projects\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\projects\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.AssemblyInfoInputs.cache
+D:\API\projects\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.AssemblyInfo.cs
+D:\API\projects\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.csproj.CoreCompileInputs.cache
+D:\API\projects\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.dll
+D:\API\projects\KASHOP\KASHOP.DAL\obj\Debug\net9.0\refint\KASHOP.DAL.dll
+D:\API\projects\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.pdb
+D:\API\projects\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.genruntimeconfig.cache
+D:\API\projects\KASHOP\KASHOP.DAL\obj\Debug\net9.0\ref\KASHOP.DAL.dll
