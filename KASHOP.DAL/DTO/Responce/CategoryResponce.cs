@@ -1,4 +1,6 @@
-﻿using System;
+﻿using KASHOP.DAL.DTO.Request;
+using KASHOP.DAL.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +10,8 @@ namespace KASHOP.DAL.DTO.Responce
 {
     public class CategoryResponce
     {
-        public string Name { get; set; }
-        public string Language { get; set; }
+        public Status Status { get; set; }
+
+        public List<CategoryTranslationResponse> Translations { get; set; }
     }
 }

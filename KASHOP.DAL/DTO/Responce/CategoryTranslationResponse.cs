@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace KASHOP.DAL.DTO.Request
 {
-    public class CategoryRequest
+    public class CategoryTranslationResponse
     {
-        
-          public List<CategoryTranslationRequest> Translations { get; set; }
+
+        public string Name { get; set; }
+        public string Language { get; set; }
     }
 }

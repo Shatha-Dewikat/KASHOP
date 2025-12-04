@@ -1,6 +1,8 @@
 
 using KASHOP.DAL;
 using KASHOP.DAL.Data;
+using KASHOP.DAL.DTO.Request;
+using KASHOP.DAL.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
@@ -44,7 +46,7 @@ namespace KASHOP.PL
           
             builder.Services.AddSwaggerGen();
             builder.Services.AddOpenApi();
-
+            builder.Services.AddScoped<ICategoryRepository ,  CategoryRepository>();
             var app = builder.Build();
             app.UseRequestLocalization(app.Services.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);
             // Configure the HTTP request pipeline.

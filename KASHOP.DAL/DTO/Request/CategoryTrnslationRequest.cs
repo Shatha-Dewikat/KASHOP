@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KASHOP.DAL.DTO.Request
 {
-    public class CategoryTrnslationRequest
+    public class CategoryTranslationRequest
     {
 
         public string Name { get; set; }
