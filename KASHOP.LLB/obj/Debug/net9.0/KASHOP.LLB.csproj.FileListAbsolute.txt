@@ -13,3 +13,4 @@ D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\KASHOP.LLB.dll
 D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\refint\KASHOP.LLB.dll
 D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\KASHOP.LLB.pdb
 D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\ref\KASHOP.LLB.dll
+D:\API\projects\KASHOP\KASHOP.LLB\obj\Debug\net9.0\KASHOP.LLB.sourcelink.json

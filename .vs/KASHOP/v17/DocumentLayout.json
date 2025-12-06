@@ -3,6 +3,93 @@
   "WorkspaceRootPath": "D:\\API\\projects\\KASHOP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./KASHOP13Dev/True/SqlTable/dbo.UserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2722150-97CA-4E58-A009-36F793A1464E}|KASHOP.LLB\\KASHOP.LLB.csproj|d:\\api\\projects\\kashop\\kashop.llb\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2722150-97CA-4E58-A009-36F793A1464E}|KASHOP.LLB\\KASHOP.LLB.csproj|solutionrelative:kashop.llb\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2722150-97CA-4E58-A009-36F793A1464E}|KASHOP.LLB\\KASHOP.LLB.csproj|d:\\api\\projects\\kashop\\kashop.llb\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2722150-97CA-4E58-A009-36F793A1464E}|KASHOP.LLB\\KASHOP.LLB.csproj|solutionrelative:kashop.llb\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2722150-97CA-4E58-A009-36F793A1464E}|KASHOP.LLB\\KASHOP.LLB.csproj|d:\\api\\projects\\kashop\\kashop.llb\\service\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2722150-97CA-4E58-A009-36F793A1464E}|KASHOP.LLB\\KASHOP.LLB.csproj|solutionrelative:kashop.llb\\service\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\dto\\responce\\registerresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\responce\\registerresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\dto\\responce\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\responce\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\dto\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\dto\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|d:\\api\\projects\\kashop\\kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2722150-97CA-4E58-A009-36F793A1464E}|KASHOP.LLB\\KASHOP.LLB.csproj|d:\\api\\projects\\kashop\\kashop.llb\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2722150-97CA-4E58-A009-36F793A1464E}|KASHOP.LLB\\KASHOP.LLB.csproj|solutionrelative:kashop.llb\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|d:\\api\\projects\\kashop\\kashop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2722150-97CA-4E58-A009-36F793A1464E}|KASHOP.LLB\\KASHOP.LLB.csproj|d:\\api\\projects\\kashop\\kashop.llb\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2722150-97CA-4E58-A009-36F793A1464E}|KASHOP.LLB\\KASHOP.LLB.csproj|solutionrelative:kashop.llb\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\utils\\userseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\utils\\userseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\utils\\iseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\utils\\iseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\utils\\roleseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\utils\\roleseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Migrations\\20251205163417_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KASHOP.DAL\\Migrations\\20251205163417_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|d:\\api\\projects\\kashop\\kashop.pl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|d:\\api\\projects\\kashop\\kashop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\dto\\responce\\categoryresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\responce\\categoryresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,30 +104,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\dto\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|d:\\api\\projects\\kashop\\kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|d:\\api\\projects\\kashop\\kashop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|d:\\api\\projects\\kashop\\kashop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|d:\\api\\projects\\kashop\\kashop.pl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +126,6 @@
       "RelativeMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\kashop.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\kashop.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\kashop.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -83,10 +142,6 @@
       "RelativeMoniker": "D:0:0:{6300F36D-0622-45B1-A3C7-12E89759123E}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\resources\\sharedresource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2722150-97CA-4E58-A009-36F793A1464E}|KASHOP.LLB\\KASHOP.LLB.csproj|d:\\api\\projects\\kashop\\kashop.llb\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2722150-97CA-4E58-A009-36F793A1464E}|KASHOP.LLB\\KASHOP.LLB.csproj|solutionrelative:kashop.llb\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Migrations\\20251119090105_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KASHOP.DAL\\Migrations\\20251119090105_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -97,6 +152,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\migrations\\20251121192322_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\migrations\\20251121192322_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\api\\projects\\kashop\\kashop.dal\\migrations\\20251205163824_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B971EAFF-033B-4C82-99D3-9741BD8767C5}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\migrations\\20251205163824_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,60 +165,143 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryTranslationResponse.cs",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Responce\\CategoryTranslationResponse.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Responce\\CategoryTranslationResponse.cs",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Responce\\CategoryTranslationResponse.cs",
-              "RelativeToolTip": "KASHOP.DAL\\DTO\\Responce\\CategoryTranslationResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T18:05:12.737Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryResponce.cs",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Responce\\CategoryResponce.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Responce\\CategoryResponce.cs",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Responce\\CategoryResponce.cs",
-              "RelativeToolTip": "KASHOP.DAL\\DTO\\Responce\\CategoryResponce.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T19:32:40.7Z",
+              "Title": "dbo.UserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./KASHOP13Dev/True/SqlTable/dbo.UserRoles.sql",
+              "ToolTip": "dbo.UserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-06T09:12:24.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryRequest.cs",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
-              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Responce\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Responce\\LoginResponse.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Responce\\LoginResponse.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Responce\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T19:29:29.793Z"
+              "WhenOpened": "2025-12-05T19:54:44.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Request\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\RegisterRequest.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Request\\RegisterRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:52:16.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.LLB\\Service\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "KASHOP.LLB\\Service\\IAuthenticationService.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.LLB\\Service\\IAuthenticationService.cs",
+              "RelativeToolTip": "KASHOP.LLB\\Service\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T17:20:53.364Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoryTrnslationRequest.cs",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryTrnslationRequest.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\CategoryTrnslationRequest.cs",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryTrnslationRequest.cs",
-              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\CategoryTrnslationRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.LLB\\Service\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "KASHOP.LLB\\Service\\AuthenticationService.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.LLB\\Service\\AuthenticationService.cs",
+              "RelativeToolTip": "KASHOP.LLB\\Service\\AuthenticationService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T19:42:58.473Z"
+              "WhenOpened": "2025-12-05T18:18:54.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.LLB\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "KASHOP.LLB\\Service\\CategoryService.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.LLB\\Service\\CategoryService.cs",
+              "RelativeToolTip": "KASHOP.LLB\\Service\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T18:36:57.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "RegisterResponce.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Responce\\RegisterResponce.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Responce\\RegisterResponce.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Responce\\RegisterResponce.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Responce\\RegisterResponce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:56:19.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Request\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\LoginRequest.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Request\\LoginRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:53:34.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.LLB\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "KASHOP.LLB\\Service\\ICategoryService.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.LLB\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "KASHOP.LLB\\Service\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T18:37:22.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:44:44.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:35:58.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\CategoryRepository.cs",
@@ -171,198 +313,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Repository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Repository\\ICategoryRepository.cs",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Repository\\ICategoryRepository.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Repository\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T17:35:58.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\CategoriesController.cs",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "KASHOP.PL\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwDIAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T08:44:44.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Program.cs",
               "RelativeDocumentMoniker": "KASHOP.PL\\Program.cs",
               "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Program.cs",
               "RelativeToolTip": "KASHOP.PL\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAD4vzAAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T08:28:28.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BaseModel.cs",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\BaseModel.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\BaseModel.cs",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\BaseModel.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Models\\BaseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T19:15:41.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "KASHOP.PL\\appsettings.Development.json",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\appsettings.Development.json",
-              "RelativeToolTip": "KASHOP.PL\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-01T17:10:36.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\appsettings.json",
-              "RelativeDocumentMoniker": "KASHOP.PL\\appsettings.json",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\appsettings.json",
-              "RelativeToolTip": "KASHOP.PL\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-19T08:56:04.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\Category.cs",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\Category.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Models\\Category.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T10:32:00.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Status.cs",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\Status.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\Status.cs",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\Status.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Models\\Status.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T19:18:17.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryTrnslation.cs",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\CategoryTrnslation.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\CategoryTrnslation.cs",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\CategoryTrnslation.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Models\\CategoryTrnslation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T19:08:14.601Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "KASHOP.PL.csproj",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\KASHOP.PL.csproj",
-              "RelativeDocumentMoniker": "KASHOP.PL\\KASHOP.PL.csproj",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\KASHOP.PL.csproj",
-              "RelativeToolTip": "KASHOP.PL\\KASHOP.PL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-19T08:29:06.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20251121192322_d.cs",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Migrations\\20251121192322_d.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20251121192322_d.cs",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Migrations\\20251121192322_d.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20251121192322_d.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UserSeedData.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Utils\\UserSeedData.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Utils\\UserSeedData.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Utils\\UserSeedData.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Utils\\UserSeedData.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T19:23:22.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SharedResource.cs",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Resources\\SharedResource.cs",
-              "RelativeDocumentMoniker": "KASHOP.PL\\Resources\\SharedResource.cs",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Resources\\SharedResource.cs",
-              "RelativeToolTip": "KASHOP.PL\\Resources\\SharedResource.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T18:33:32.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T08:37:58.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "KASHOP.PL.http",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\KASHOP.PL.http",
-              "RelativeDocumentMoniker": "KASHOP.PL\\KASHOP.PL.http",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\KASHOP.PL.http",
-              "RelativeToolTip": "KASHOP.PL\\KASHOP.PL.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-19T08:28:26.231Z"
+              "WhenOpened": "2025-12-05T16:57:47.664Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "KASHOP.DAL.csproj",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\KASHOP.DAL.csproj",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj",
-              "RelativeToolTip": "KASHOP.DAL\\KASHOP.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-19T08:36:03.677Z"
+              "Title": "RoleSeedData.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Utils\\RoleSeedData.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Utils\\RoleSeedData.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Utils\\RoleSeedData.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Utils\\RoleSeedData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:45:57.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SharedResource.resx",
-              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Resources\\SharedResource.resx",
-              "RelativeDocumentMoniker": "KASHOP.PL\\Resources\\SharedResource.resx",
-              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Resources\\SharedResource.resx",
-              "RelativeToolTip": "KASHOP.PL\\Resources\\SharedResource.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-11-21T18:36:07.367Z"
+              "DocumentIndex": 15,
+              "Title": "ISeedData.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Utils\\ISeedData.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Utils\\ISeedData.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Utils\\ISeedData.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Utils\\ISeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:44:27.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.LLB\\Class1.cs",
               "RelativeDocumentMoniker": "KASHOP.LLB\\Class1.cs",
@@ -374,7 +373,246 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20251205163824_identity.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Migrations\\20251205163824_identity.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20251205163824_identity.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Migrations\\20251205163824_identity.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20251205163824_identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:38:24.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20251205163417_identity.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Migrations\\20251205163417_identity.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20251205163417_identity.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Migrations\\20251205163417_identity.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20251205163417_identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:34:17.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:18:35.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:37:58.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "KASHOP.PL\\appsettings.Development.json",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\appsettings.Development.json",
+              "RelativeToolTip": "KASHOP.PL\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T17:10:36.802Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "KASHOP.PL\\appsettings.json",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\appsettings.json",
+              "RelativeToolTip": "KASHOP.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-19T08:56:04.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryTrnslationRequest.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryTrnslationRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\CategoryTrnslationRequest.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryTrnslationRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\CategoryTrnslationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:42:58.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:29:29.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryResponce.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Responce\\CategoryResponce.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Responce\\CategoryResponce.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Responce\\CategoryResponce.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Responce\\CategoryResponce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:32:40.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryTranslationResponse.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Responce\\CategoryTranslationResponse.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Responce\\CategoryTranslationResponse.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\DTO\\Responce\\CategoryTranslationResponse.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Responce\\CategoryTranslationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:05:12.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\BaseModel.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\BaseModel.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:15:41.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\Category.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:32:00.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\Status.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\Status.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:18:17.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryTrnslation.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\CategoryTrnslation.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\CategoryTrnslation.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Models\\CategoryTrnslation.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\CategoryTrnslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:08:14.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KASHOP.PL.csproj",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\KASHOP.PL.csproj",
+              "RelativeDocumentMoniker": "KASHOP.PL\\KASHOP.PL.csproj",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\KASHOP.PL.csproj",
+              "RelativeToolTip": "KASHOP.PL\\KASHOP.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T08:29:06.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20251121192322_d.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Migrations\\20251121192322_d.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20251121192322_d.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Migrations\\20251121192322_d.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20251121192322_d.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:23:22.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SharedResource.cs",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Resources\\SharedResource.cs",
+              "RelativeDocumentMoniker": "KASHOP.PL\\Resources\\SharedResource.cs",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Resources\\SharedResource.cs",
+              "RelativeToolTip": "KASHOP.PL\\Resources\\SharedResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:33:32.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "KASHOP.PL.http",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\KASHOP.PL.http",
+              "RelativeDocumentMoniker": "KASHOP.PL\\KASHOP.PL.http",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\KASHOP.PL.http",
+              "RelativeToolTip": "KASHOP.PL\\KASHOP.PL.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-19T08:28:26.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "KASHOP.DAL.csproj",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\KASHOP.DAL.csproj",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\KASHOP.DAL.csproj",
+              "RelativeToolTip": "KASHOP.DAL\\KASHOP.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T08:36:03.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SharedResource.resx",
+              "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Resources\\SharedResource.resx",
+              "RelativeDocumentMoniker": "KASHOP.PL\\Resources\\SharedResource.resx",
+              "ToolTip": "D:\\API\\projects\\KASHOP\\KASHOP.PL\\Resources\\SharedResource.resx",
+              "RelativeToolTip": "KASHOP.PL\\Resources\\SharedResource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-21T18:36:07.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "20251119090105_init.cs",
               "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Migrations\\20251119090105_init.cs",
               "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20251119090105_init.cs",
@@ -385,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 36,
               "Title": "Test.cs",
               "DocumentMoniker": "D:\\API\\projects\\KASHOP\\KASHOP.DAL\\Test.cs",
               "RelativeDocumentMoniker": "KASHOP.DAL\\Test.cs",

@@ -2,18 +2,25 @@
 using KASHOP.DAL;
 using KASHOP.DAL.Data;
 using KASHOP.DAL.DTO.Request;
+using KASHOP.DAL.Models;
 using KASHOP.DAL.Repository;
+using KASHOP.DAL.Utils;
+using KASHOP.LLB.Service;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Tokens;
 using System.Globalization;
+using System.Text;
 
 namespace KASHOP.PL
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -32,7 +39,11 @@ namespace KASHOP.PL
     new CultureInfo(defaultCulture),
     new CultureInfo("ar")
 };
+            builder.Services.AddScoped<ISeedData, RoleSeedData>();
+            builder.Services.AddScoped<ISeedData, UserSeedData>();
 
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
 
             builder.Services.Configure<RequestLocalizationOptions>(options => {
                 options.DefaultRequestCulture = new RequestCulture(defaultCulture); options.SupportedCultures = supportedCultures;
@@ -43,10 +54,33 @@ namespace KASHOP.PL
                     QueryStringKey = "lang"
                 });
             });
-          
+
+            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options =>
+    {
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = true,
+            ValidateAudience = true,
+            ValidateLifetime = true,
+            ValidateIssuerSigningKey = true,
+            ValidIssuer = (builder.Configuration["Jwt: Issuer"]),
+            ValidAudience = (builder.Configuration["Jwt: Audience"]),
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt: SecretKey"]!))
+        };
+    });
+
             builder.Services.AddSwaggerGen();
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
+.AddEntityFrameworkStores<ApplicationDbContext>()
+.AddDefaultTokenProviders();
+
             builder.Services.AddOpenApi();
             builder.Services.AddScoped<ICategoryRepository ,  CategoryRepository>();
+
+
+            builder.Services.AddScoped<ISeedData, RoleSeedData>();
+            builder.Services.AddScoped<ISeedData, UserSeedData>();
             var app = builder.Build();
             app.UseRequestLocalization(app.Services.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);
             // Configure the HTTP request pipeline.
@@ -61,6 +95,16 @@ namespace KASHOP.PL
 
             app.UseAuthorization();
 
+            using (var scope = app.Services.CreateScope())
+            {
+                var services = scope.ServiceProvider;
+                var seeders = services.GetServices<ISeedData>();
+
+                foreach (var seeder in seeders)
+                {
+                    await seeder.DataSeed();
+                }
+            }
 
             app.MapControllers();
 
