@@ -4,6 +4,8 @@ using KASHOP.LLB.Service;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
+using KASHOP.DAL.DTO.Responce;
+
 
 namespace KASHOP.PL.Area.Identity
 {
@@ -33,6 +35,44 @@ namespace KASHOP.PL.Area.Identity
             }
             return Ok(result);
         }
+
+        [HttpGet("confirmemail")]
+        public async Task<IActionResult> ConfirmEmail(
+           [FromQuery] string email,
+           [FromQuery] string token)
+        {
+            var result = await _authenticationService.ConfirmEmailAsync(email, token);
+            return Ok(result);
+        }
+
+        [HttpPost("forgot-password")]
+        public async Task<IActionResult> ForgotPassword([FromBody] ForgotPasswordRequest request)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var result = await _authenticationService.RequestPasswordReset(request);
+
+            if (!result.Success)
+                return BadRequest(result);
+
+            return Ok(result);
+        }
+
+        [HttpPost("reset-password")]
+        public async Task<IActionResult> ResetPassword([FromBody] ResetPasswordRequest request)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var result = await _authenticationService.ResetPasswordAsync(request);
+
+            if (!result.Success)
+                return BadRequest(result);
+
+            return Ok(result);
+        }
+
 
     }
 }

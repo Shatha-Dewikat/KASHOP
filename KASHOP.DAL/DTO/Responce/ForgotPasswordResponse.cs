@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace KASHOP.DAL.DTO.Responce
 {
-    public class RegisterResponce : BaseResponse
-
+    public class ForgotPasswordResponse: BaseResponse
     {
-      
+
+
         
-
-
     }
 }

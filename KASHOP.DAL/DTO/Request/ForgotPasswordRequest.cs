@@ -4,14 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KASHOP.DAL.DTO.Responce
+namespace KASHOP.LLB.Service
 {
-    public class RegisterResponce : BaseResponse
-
+    public class ForgotPasswordRequest
     {
-      
-        
-
-
+        public string Email { get; set; }
     }
 }
