@@ -73,7 +73,6 @@ namespace KASHOP.LLB.Service
 
         public async Task<RegisterResponce> RegisterAsync(RegisterRequest registerRequest)
         {
-           
             try
             {
                 var user = registerRequest.Adapt<ApplicationUser>();
@@ -105,7 +104,6 @@ namespace KASHOP.LLB.Service
                     Message = "An unexpected error",
                     Errors = new List<string> { ex.Message }
                 };
-
             }
         }
 
@@ -126,7 +124,6 @@ namespace KASHOP.LLB.Service
             var roles = await _userManager.GetRolesAsync(user);
             userClaims.AddRange(roles.Select(role => new Claim(ClaimTypes.Role, role)));
 
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
             var token = new JwtSecurityToken(

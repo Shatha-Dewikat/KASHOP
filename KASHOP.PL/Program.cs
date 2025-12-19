@@ -1,13 +1,11 @@
 
 using KASHOP.DAL;
 using KASHOP.DAL.Data;
-using KASHOP.DAL.DTO.Request;
 using KASHOP.DAL.Models;
 using KASHOP.DAL.Repository;
 using KASHOP.DAL.Utils;
 using KASHOP.LLB.Service;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
@@ -24,7 +22,6 @@ namespace KASHOP.PL
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
 
             builder.Services.AddControllers();
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -34,16 +31,7 @@ namespace KASHOP.PL
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
             const string defaultCulture = "en";
 
-            var supportedCultures = new[]
-            {
-    new CultureInfo(defaultCulture),
-    new CultureInfo("ar")
-};
-            builder.Services.AddScoped<ISeedData, RoleSeedData>();
-            builder.Services.AddScoped<ISeedData, UserSeedData>();
 
-            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
-            builder.Services.AddScoped<ICategoryService, CategoryService>();
 
             builder.Services.Configure<RequestLocalizationOptions>(options => {
                 options.DefaultRequestCulture = new RequestCulture(defaultCulture); options.SupportedCultures = supportedCultures;
@@ -70,10 +58,6 @@ namespace KASHOP.PL
         };
     });
 
-            builder.Services.AddSwaggerGen();
-            builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
-.AddEntityFrameworkStores<ApplicationDbContext>()
-.AddDefaultTokenProviders();
 
             builder.Services.AddOpenApi();
             builder.Services.AddScoped<ICategoryRepository ,  CategoryRepository>();
@@ -86,7 +70,6 @@ namespace KASHOP.PL
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
-                app.MapOpenApi();
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
@@ -107,7 +90,6 @@ namespace KASHOP.PL
             }
 
             app.MapControllers();
-
             app.Run();
         }
     }
